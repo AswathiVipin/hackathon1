@@ -1,0 +1,28 @@
+.container{
+    margin-left: 50px;
+    padding: 10px;
+   
+}
+
+.container p{
+    font-size: 30px;
+    font-weight: 700;
+}
+
+.lab{
+    font-size:medium;
+    font-family: 'Times New Roman';
+    color:rgb(214, 20, 117);
+    font-weight: 1000;
+    padding-right: 20px;
+    
+}
+
+#search{
+    margin-top: 1.5rem;
+    width: 500px;
+    border: none;
+    border-bottom: 1px solid black;
+    outline: none;
+    height: 1.5rem;
+}
